@@ -68,8 +68,8 @@ Created a **Physics E-learning platform** with:
   - **GDG on Campus Chula, KMITL, KMUTT x AMSA | Build with AI: Transforming Healthcare with Technology**
   - **Blazing Fast Deployment with Firebase at CEDT Innovation Summit**
 - Achieved:
-  - 📈 **200% increase** in event frequency (5 → 9)
-  - 👥 **351% increase** in participants (56 → 253)
+  - 📈 **1.8x increase** in event frequency (5 → 9)
+  - 👥 **8.4x increase** in participants (56 → 472)
 
 ### 🎓 Class President – Computer Science   *(2024 – 2025)*
 **Chulalongkorn University**  
