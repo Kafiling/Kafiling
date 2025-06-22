@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/panthawit-khantipan-ab511a280/)
 [![Email](https://img.shields.io/badge/Email-panthawit.k@gmail.com-red?logo=gmail)](mailto:panthawit.k@gmail.com)
 
+![Picture of Me!](/DSC05762.jpg)
+
 
 🎓 **Third-Year B.Sc. Computer Science @ Chulalongkorn University**  
 💡 Passionate about building impactful digital products, from intuitive frontend interfaces to scalable backend systems and cloud-native architectures.
