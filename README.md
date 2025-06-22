@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kafiling
-### Computer Science Student | GDG on Campus Lead - Chula | Full-Stack Developer | Matcha & Chocolate Enthusiast 🍵🍫
+### Computer Science Student | GDG on Campus Lead - Chula | Full-Stack Developer | Matcha & Chocolate Enthusiast 🍵 🍫
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/panthawit-khantipan-ab511a280/)
 [![Email](https://img.shields.io/badge/Email-panthawit.k@gmail.com-red?logo=gmail)](mailto:panthawit.k@gmail.com)
@@ -7,6 +9,8 @@
 
 🎓 **Third-Year B.Sc. Computer Science @ Chulalongkorn University**  
 💡 Passionate about building impactful digital products, from intuitive frontend interfaces to scalable backend systems and cloud-native architectures.
+
+
 
 [![Kafiling's GitHub stats](https://github-readme-stats.vercel.app/api?username=kafiling)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +28,7 @@ Backend
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 DevOps / Cloud
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-222222?style=for-the-badge&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-222222?style=for-the-badge&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 Other Tools
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
