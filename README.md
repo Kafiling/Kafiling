@@ -13,8 +13,12 @@
 💡 Passionate about building impactful digital products, from intuitive frontend interfaces to scalable backend systems and cloud-native architectures.
 
 
-
-[![Kafiling's GitHub stats](https://github-readme-stats.vercel.app/api?username=kafiling)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kafiling" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kafiling&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
