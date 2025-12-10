@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kafiling
-### Computer Science Student | GDG on Campus Lead - Chula | Full-Stack Developer | Matcha & Chocolate Enthusiast 🍵 🍫
+### Computer Science Student | GDG on Campus Lead - Chula | Matcha & Chocolate Enthusiast 🍵 🍫
 
 
 
