@@ -73,7 +73,7 @@ Created a **Physics E-learning platform** with:
 **Google Developer Group on Campus (Chulalongkorn University)**  
 
 - Led a 47-member team to organize technical events and workshops for university students and the Bangkok developer community.
-- Organized **15 events + 1 inter-university collaboration** over 2 years, including:
+- Organized **15 events with 2 inter-university collaboration** over 2 years, including:
   - **Google Summer of Code: Info Session 2025** — 208 registrations
   - **Google Summer of Code × Build with AI 2026** — 189 registrations
   - **Python Hunt 2025 & 2026** (annual flagship workshop, 100% check-in rate)
