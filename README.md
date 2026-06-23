@@ -69,17 +69,21 @@ Created a **Physics E-learning platform** with:
 - Integrated the **CUNEX API** to automate document generation (insurance, scholarship, military certificates).
 - Worked with cross-functional teams (staff, professors, admins) to deliver solutions aligned with institutional needs.
 
-### 👨‍🏫 Google Developer Group - Chapter Leader  *(Sep 2024 – Present)* 
-**Google Developer Group on Campus (Chulalognkorn University)**  
- 
-- Led a 47 member team to organize technical events and workshops for university and high school students.
-- Successfully hosted **9 events in past year**, including:
-  - **Web App Development with Firebase & Next.js**
-  - **GDG on Campus Chula, KMITL, KMUTT x AMSA | Build with AI: Transforming Healthcare with Technology**
-  - **Blazing Fast Deployment with Firebase at CEDT Innovation Summit**
+### 👨‍🏫 Google Developer Group - Chapter Leader  (2024 - 2026)
+**Google Developer Group on Campus (Chulalongkorn University)**  
+
+- Led a 47-member team to organize technical events and workshops for university students and the Bangkok developer community.
+- Organized **15 events + 1 inter-university collaboration** over 2 years, including:
+  - **Google Summer of Code: Info Session 2025** — 208 registrations
+  - **Google Summer of Code × Build with AI 2026** — 189 registrations
+  - **Python Hunt 2025 & 2026** (annual flagship workshop, 100% check-in rate)
+  - **Build with AI: Transforming Healthcare** — GDG Chula × KMITL × KMUTT × AMSA
+  - **Blazing Fast Deployment with Firebase** at CEDT Innovation Summit
+  - **Web Development for Beginners: Build Web App with Next.js & Firebase**
 - Achieved:
-  - 📈 **1.8x increase** in event frequency (5 → 9)
-  - 👥 **8.4x increase** in participants (56 → 472)
+  - 📈 **3x increase** in event frequency (5 → 15)
+  - 👥 **~15x increase** in attendees (56 → 815)
+  - 🎟️ **1,054 total registrations** · 77% avg. check-in rate · 20 speakers engaged
 
 ### 🎓 Class President – Computer Science   *(2024 – 2025)*
 **Chulalongkorn University**  
